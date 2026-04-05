@@ -1,2 +1,2 @@
-First chapter is completed and now this is chapter 2 still learning git lol.
+
 Deleting line above and write this instead.
